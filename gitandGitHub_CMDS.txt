@@ -1,0 +1,11 @@
+git init ---> 
+git remote add origen "url of git repository" 
+              //origin means remote repositoty
+
+git pull origin main
+
+//git hub is cloud
+
+//we got to git hub for complete project not for a single file
+//we didn't modify any file in github directly only manage the files in git hub.
+//we modify the files in git only.
